@@ -1,0 +1,15 @@
+current directory: /Users/S_K/pj-2/utama/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+/Users/S_K/.rbenv/versions/2.6.5/bin/ruby -I /Users/S_K/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20200307-17514-1n8x1yj.rb extconf.rb
+creating Makefile
+
+current directory: /Users/S_K/pj-2/utama/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/S_K/pj-2/utama/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/S_K/pj-2/utama/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200307-17514-1oh1vlu/bootsnap

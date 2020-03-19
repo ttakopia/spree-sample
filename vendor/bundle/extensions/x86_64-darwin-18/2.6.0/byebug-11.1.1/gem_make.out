@@ -1,0 +1,19 @@
+current directory: /Users/S_K/pj-2/utama/vendor/bundle/gems/byebug-11.1.1/ext/byebug
+/Users/S_K/.rbenv/versions/2.6.5/bin/ruby -I /Users/S_K/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20200307-17514-13u3pgz.rb extconf.rb
+creating Makefile
+
+current directory: /Users/S_K/pj-2/utama/vendor/bundle/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/S_K/pj-2/utama/vendor/bundle/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/S_K/pj-2/utama/vendor/bundle/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20200307-17514-ypun6/byebug
